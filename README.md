@@ -15,7 +15,7 @@ Hi there! I'm thrilled to have you here. This repository serves as an introducti
 🤓 Fun Fact: I never thought I would become a QA Engineer while in university, but here I am, embracing every challenge that comes with ensuring software quality!
 
 
-## 🎓 Education  
+## 🎓 Education:  
 **Universitas Multimedia Nusantara**  
 _Bachelor's degree in Information Systems_  
 **2019 – 2023**  
